@@ -14,10 +14,10 @@
 1. 克隆仓库：
 
    ```bash
-   git clone --depth=1 https://github.com/qvshuo/squirrel.git
+   git clone --depth=1 https://github.com/qvshuo/luna-pinyin-enhanced.git
    ```
 
-2. 将本地 `squirrel` 仓库下的所有文件，覆盖至对应平台的 RIME 用户文件夹。
+2. 将本地 `luna-pinyin-enhanced` 仓库下的所有文件，覆盖至对应平台的 RIME 用户文件夹。
  
    - **鼠鬚管 Squirrel (macOS)**：`~/Library/Rime`
    - **小狼毫 Weasel (Windows)**：`%APPDATA%\Rime`
